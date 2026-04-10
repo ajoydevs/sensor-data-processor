@@ -1,5 +1,9 @@
 # Maven build output
 /target/
+demo/target/
+
+# JaCoCo output file written by calculate()
+RacingStatsData.txt
 
 # Eclipse files
 .classpath
